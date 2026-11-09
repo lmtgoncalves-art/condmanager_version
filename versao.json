@@ -1,8 +1,9 @@
 {
-  "versao": "1.8.17",
-  "data": "2026-11-08",
+  "versao": "1.8.18",
+  "data": "2026-11-09",
   "novidades": [
-    "Aviso de versão nova no Painel e cartão Versão e atualizações em Geral › Licença."
+    "Movimentos: filtro de várias categorias, separadas em Receitas, Despesas e Transferências.",
+    "Editar movimento e + Movimento: grupo Abater a uma despesa / receita (reembolsos, notas de crédito, IRC dos juros)."
   ],
   "obrigatoria": false
 }
