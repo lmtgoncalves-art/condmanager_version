@@ -1,10 +1,10 @@
 {
-  "versao": "1.8.19",
-  "data": "2026-11-09",
+  "versao": "1.8.20",
+  "data": "2026-11-11",
   "novidades": [
-    "Importação de extratos: pagamentos da mesma fração, no mesmo dia e na mesma conta num só recibo.",
-    "Recibos: eliminar um recibo anulado que nunca foi enviado e reaproveitar o número no Renumerar.",
-    "Categoria Movimentos que se anulam nos condomínios novos."
+    "Importação: número de cada recibo antes de importar; um recibo por transferência, juntar só por escolha.",
+    "Anular recibo: autorização do Administrador da aplicação, porquê e manter ou reaproveitar o número.",
+    "Renumerar com autorização; recibos migrados do Excel protegidos; ordem dos condomínios."
   ],
   "obrigatoria": false
 }
