@@ -1,9 +1,50 @@
 {
-  "versao": "1.8.21",
+  "versao": "1.8.22",
   "data": "2026-11-12",
   "novidades": [
-    "Novo CondManager Servidor para Windows 10/11 (piloto): serviços do Windows, HTTPS com Caddy e endereço gratuito DuckDNS.",
-    "Manual próprio do CondManager Servidor; no NAS e no PC nada muda (sem alterações à base de dados)."
+    "O aviso de versão nova mostra todas as versões publicadas depois da sua, cada uma com as novidades (as 5 mais recentes abertas, as outras em «Ver mais»)."
   ],
-  "obrigatoria": false
+  "obrigatoria": false,
+  "historico": [
+    {
+      "versao": "1.8.21",
+      "data": "2026-11-12",
+      "novidades": [
+        "Novo CondManager Servidor para Windows 10/11 (piloto): serviços do Windows, HTTPS com Caddy e endereço gratuito DuckDNS.",
+        "Manual próprio do CondManager Servidor; no NAS e no PC nada muda (sem alterações à base de dados)."
+      ]
+    },
+    {
+      "versao": "1.8.20",
+      "data": "2026-11-11",
+      "novidades": [
+        "Importação: número de cada recibo antes de importar; um recibo por transferência, juntar só por escolha.",
+        "Anular recibo: autorização do Administrador da aplicação, motivo, e manter ou reaproveitar o número.",
+        "Renumerar com autorização; recibos migrados do Excel protegidos; ordem dos condomínios."
+      ]
+    },
+    {
+      "versao": "1.8.19",
+      "data": "2026-11-09",
+      "novidades": [
+        "Importação: opção de juntar recibos do mesmo dia; eliminar recibo anulado.",
+        "Renumerar preenche os números em falta; nova categoria «Movimentos que se anulam»."
+      ]
+    },
+    {
+      "versao": "1.8.18",
+      "data": "2026-11-09",
+      "novidades": [
+        "Filtro de categorias com várias escolhas e separado por receitas e despesas.",
+        "«Abater a…» nos movimentos; categorias das regras agrupadas por tipo."
+      ]
+    },
+    {
+      "versao": "1.8.17",
+      "data": "2026-11-08",
+      "novidades": [
+        "Aviso de versão nova em Geral › Licença › Versão e atualizações."
+      ]
+    }
+  ]
 }
