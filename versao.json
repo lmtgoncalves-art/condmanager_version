@@ -1,10 +1,9 @@
 {
-  "versao": "1.8.20",
-  "data": "2026-11-11",
+  "versao": "1.8.21",
+  "data": "2026-11-12",
   "novidades": [
-    "Importação: número de cada recibo antes de importar; um recibo por transferência, juntar só por escolha.",
-    "Anular recibo: autorização do Administrador da aplicação, porquê e manter ou reaproveitar o número.",
-    "Renumerar com autorização; recibos migrados do Excel protegidos; ordem dos condomínios."
+    "Novo CondManager Servidor para Windows 10/11 (piloto): serviços do Windows, HTTPS com Caddy e endereço gratuito DuckDNS.",
+    "Manual próprio do CondManager Servidor; no NAS e no PC nada muda (sem alterações à base de dados)."
   ],
   "obrigatoria": false
 }
